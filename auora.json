@@ -1,0 +1,28 @@
+\{
+  "name": "nicks roms",
+  "author": "Nick",
+  "gba": [
+    {
+      "name": "pokemon emerald",
+      "icon": "https://static.emulatorgames.net/images/gameboy-advance/pokemon-emerald-version.webp",
+      "link": "https://drive.google.com/open?id=1-fY08mcaAhMCrmCkcAT2mwc3i0-riJoZ"
+    },
+    {
+      "name": "pokemon ruby",
+      "icon": "https://static.emulatorgames.net/images/gameboy-advance/pokemon-ruby-version-v1-1.webp",
+      "link": "https://drive.google.com/open?id=18u8PL39q2tkb3BOJD9oJXot0lzkqoScK"
+    },
+    {
+      "name": "pokemon jupiter",
+      "icon": "https://static.emulatorgames.net/images/gameboy-advance/pokemon-jupiter-6-04-ruby-hack.webp",
+      "link": "https://www.emulatorgames.net/download/?rom=pokemon-jupiter-604-ruby-hack"
+    }
+  ],
+  "gbc": [
+    {
+      "name": "A GBC ROM",
+      "icon": "icon.png",
+      "link": "rom.gbc"
+    }
+  ]
+}
